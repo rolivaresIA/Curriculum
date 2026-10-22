@@ -1,6 +1,6 @@
 ﻿# Curriculum
 
-CV of **Rodolfo Olivares**, Data Analyst & Data Scientist.
+CV of **Rodolfo Olivares**, Data & Business Analyst.
 
 - [Download the CV (PDF)](Rodolfo_Olivares_CV.pdf)
 - Portfolio: <https://rolivaresia.github.io/>
