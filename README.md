@@ -2,7 +2,8 @@
 
 CV of **Rodolfo Olivares**, Data & Business Analyst.
 
-- [Download the CV (PDF)](Rodolfo_Olivares_CV.pdf)
+- [Download the CV (PDF, English)](Rodolfo_Olivares_CV.pdf)
+- [Descargar CV (PDF, español)](Rodolfo_Olivares_CV_ES.pdf)
 - Portfolio: <https://rolivaresia.github.io/>
 - LinkedIn: <https://www.linkedin.com/in/rodolivaresa/>
 
